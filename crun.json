@@ -1,0 +1,17 @@
+[
+    {
+        "name": "YouTube",
+        "bin": "/usr/bin/brave",
+        "args": ["https://youtube.com"]
+    },
+    {
+        "name": "HackTheBox",
+        "bin": "/usr/bin/brave",
+        "args": ["https://hackthebox.com"]
+    },
+    {
+        "name": "AVD - Mobile",
+        "bin": "/opt/android-sdk/emulator/emulator",
+        "args": ["-avd", "mobile"]
+    }
+]
